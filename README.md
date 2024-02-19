@@ -15,3 +15,5 @@ In the project directory, you can run:
 Runs the app in the development mode. The page will reload if you make edits. You will also see any lint errors in the console.
 
 <h3>Screen Gif</h3>
+
+![redux crud](https://github.com/begpan/crudRedux/assets/145170180/7fef38f2-3e3d-4a8c-9f16-86be1151ba0c)
